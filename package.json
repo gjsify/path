@@ -1,0 +1,28 @@
+{
+  "name": "@gjsify/path",
+  "version": "0.0.1",
+  "description": "path core module for gjs",
+  "scripts": {
+    "test": "cgjs ./test"
+  },
+  "keywords": [
+    "gjs",
+    "require",
+    "commonjs",
+    "npm",
+    "node",
+    "gtk",
+    "native",
+    "cgjs",
+    "path"
+  ],
+  "author": "Andrea Giammarchi",
+  "license": "ISC",
+  "main": "index.js",
+  "repository": "github:cgjs/cgjs",
+  "bugs": "https://github.com/gjsify/fs/issues",
+  "homepage": "https://github.com/gjsify/fs",
+  "devDependencies": {
+    "cgjs": "^0.1.28"
+  }
+}
